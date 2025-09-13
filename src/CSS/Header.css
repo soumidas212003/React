@@ -1,0 +1,17 @@
+ul{
+    background-color: rgb(30, 114, 210);
+    list-style-type: None;
+    display: flex;
+    padding:12px;
+    justify-content: end;
+}
+.navlink{
+    text-decoration: None;
+    Padding: 7px;
+    margin: 5px;
+    color: white;
+}
+.nav{
+    display:flex;
+    justify-content: space-between;
+}
